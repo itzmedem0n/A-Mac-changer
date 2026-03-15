@@ -6,8 +6,8 @@ import os
 
 def coml () :
  parser = argparse.ArgumentParser(description="MAC ADDR CHANGER > ")
- parser.add_argument("-i","-interface",dest="interface", required=True,help="Network interface")
- parser.add_argument("-m","-mac", dest="new_mac", required=True,help="MAC Address")
+ parser.add_argument("-i","--interface",dest="interface", required=True,help="Network interface")
+ parser.add_argument("-m","--mac", dest="new_mac", required=True,help="MAC Address")
  args = parser.parse_args()
  return args
 ###############################################3
