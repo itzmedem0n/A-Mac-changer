@@ -26,6 +26,7 @@ rich package (pip install rich)
 
 ---------------------------------------------------------------------------------------------------------
 Usage 
+
 sudo python mac_changer.py -i <interface> -m <new_mac>
 
 Example:
