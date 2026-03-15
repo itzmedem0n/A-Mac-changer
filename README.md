@@ -35,8 +35,8 @@ sudo python mac_changer.py -i eth0 -m 00:11:22:33:44:55
 Author
 Cybersecurity student interested in:
 
-Networking
-Linux
-Python security tools
+Networking/
+Linux/
+Python security tools/
 Ethical hacking
 
