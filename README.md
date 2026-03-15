@@ -35,6 +35,8 @@ sudo python mac_changer.py -i <interface> -m <new_mac>
 
 Example:
 
+the first byte must be an even number ! 
+
 sudo python mac_changer.py -i eth0 -m 00:11:22:33:44:55
 
 ---------------------------------------------------------------------------------------------------------
