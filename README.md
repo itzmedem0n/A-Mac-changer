@@ -1,11 +1,15 @@
 MAC Address Changer (Python)
 
 A simple Python command line tool that changes the MAC address of a network interface on Linux systems.
+
 This project is a small networking / cybersecurity utility built to practice working with:
 
 Python CLI tools
+
 Linux networking commands
+
 Regular expressions
+
 System privilege checks
 
 ---------------------------------------------------------------------------------------------------------
