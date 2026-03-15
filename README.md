@@ -19,10 +19,10 @@ Root privilege check
 ---------------------------------------------------------------------------------------------------------
 Requirements
 
-Python 3
-Linux system
-ifconfig command installed
-rich library
+Python 3/ 
+Linux system/ 
+ifconfig command installed/ 
+rich package (pip install rich)
 
 ---------------------------------------------------------------------------------------------------------
 Usage
